@@ -1,1 +1,1 @@
-#Naive Bayes Classifier for Hand-written Digit Classification
+# Naive Bayes Classifier for Hand-written Digit Classification
